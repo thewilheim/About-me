@@ -2,7 +2,7 @@
 
 My name is Will, 
 
-I am a devloper based in the Necastle region of New South Wales, Australia.
+I am a devloper based in the Newcastle region of New South Wales, Australia.
 
 I started coding back in 2020 as i wanted to learn a new skill after working on video games as a artist and fell in love with front-end devlopment and all things coding related.
 
