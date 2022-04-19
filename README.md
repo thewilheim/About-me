@@ -19,11 +19,11 @@ HTML, CSS, React, Javascript, GIT
 ```
 #### Worked with:
 ```
-PHP, mySQL, WordPress, Python
+PHP, mySQL, WordPress
 ```
 #### Interested in learning more about:
 ```
-Java, Cloud based systems (AWS), Typescript
+Java, Cloud based systems (AWS), Typescript, Python
 ```
 
 ### Recent Projects
