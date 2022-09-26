@@ -9,7 +9,7 @@ HTML, CSS, React, Javascript, GIT
 ```
 #### Worked with:
 ```
-PHP, mySQL, WordPress
+PHP, mySQL, WordPress, Kotlin, Ktor, MongoDB
 ```
 #### Interested in learning more about:
 ```
